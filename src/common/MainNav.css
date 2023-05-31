@@ -1,0 +1,17 @@
+#logo-container {
+  height: 30px;
+  display: block;
+  overflow: hidden;
+  float: left;
+}
+
+.logo {
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}

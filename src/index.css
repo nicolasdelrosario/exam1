@@ -1,0 +1,41 @@
+:root {
+  --black: #191919;
+  --gray: #5c6265;
+}
+
+body {
+  font-family: 'PT Serif', serif;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 40px;
+  text-transform: none;
+  color: var(--black);
+  margin-top: 30px;
+}
+
+h3 {
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 30px;
+  text-transform: none;
+  color: var(--black);
+}
+
+p, span {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: var(--gray);
+  font-family: 'Cutive Mono', monospace;
+}
+
+ul {
+  list-style: none;
+}
+
+.padded {
+  padding: 50px 0;
+}
